@@ -26,3 +26,5 @@ C:\Windows\System32\xcopy.exe /y /f xxd\xxd.exe "C:\Program Files (x86)\Vim\vim7
 
 :END
 POPD
+
+PAUSE
