@@ -15,7 +15,7 @@ PYTHON=C:\opt\Python27 DYNAMIC_PYTHON=yes PYTHON_VER=27 ^
 SNIFF=yes CSCOPE=yes ICONV=yes GETTEXT=yes POSTSCRIPT=yes ^
 NETBEANS=yes ^
 CPU=AMD64 OPTIMIZE=MAXSPEED CPUNR=pentium4 WINVER=0x0500 ^
-CVARS="/Qpar /Ob2 /Oi /Ot /Oy- /GT /GF /GS- /Gy"
+CVARS="/Qpar /Ob2 /Oi /Ot /Oy /GT /GF /GS- /Gy"
 
 nmake -f Make_mvc.mak %VIM_CONFIG_OPTIONS% clean
 nmake -f Make_mvc.mak %VIM_CONFIG_OPTIONS%
